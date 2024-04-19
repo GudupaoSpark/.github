@@ -1,6 +1,6 @@
 # Welcome to Gudupao Spark Studio Github Homepage
 
-![](https://pic.imgdb.cn/item/662291200ea9cb140304f16a.png)
+![](https://github.com/Gudupao-Spark-Studio/.github/picture/gudupao.png)
 
 > ## **📖About us**
 
@@ -22,7 +22,7 @@
 
 > ## **⛏️Our products**
 
-![](https://pic.imgdb.cn/item/66229ae80ea9cb14031b7ecd.png)
+![](https://github.com/Gudupao-Spark-Studio/.github/picture/sfa.png)
 
 > ## **🖥️Our website**
 
