@@ -22,7 +22,7 @@
 
 > ## **⛏️Our products**
 
-![](https://github.com/Gudupao-Spark-Studio/.github/blob/main/picture/sfa.png)
+![](https://raw.githubusercontent.com/Gudupao-Spark-Studio/.github/main/picture/sfa.png)
 
 > ## **🖥️Our website**
 
