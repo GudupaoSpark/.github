@@ -29,7 +29,7 @@
 - **Studio Official Website:gudupao.top**
 - **SFA Website:sfa.gudupao.top**
 
-> ## **Our official account**
+> ## **🔗Our official account**
 
 - [![Bilibili](https://img.shields.io/badge/bilibili-white?logo=bilibili)](https://space.bilibili.com/1016857888)
 - [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@gudupaostudio)
