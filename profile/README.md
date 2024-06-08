@@ -1,4 +1,4 @@
-# Welcome to Gudupao Spark Studio Github Homepage
+# Welcome to Gudupao Github Homepage
 
 ![](https://raw.githubusercontent.com/Gudupao-Spark-Studio/.github/main/picture/GudupaoLOGO4.png)
 
