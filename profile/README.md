@@ -32,7 +32,7 @@
 > ## **🔗Our official account**
 
 - [![Bilibili](https://img.shields.io/badge/bilibili-white?logo=bilibili)](https://space.bilibili.com/1016857888)
-- [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@gudupaostudio)
+- [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@gudupaospark)
 - [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/GudupaoSpark)
 
 **Follow us, please!!!**
