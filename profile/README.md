@@ -8,7 +8,7 @@
 
 > ## **🏠Our location**
 
-- **🇨🇳Xuhui District, Shanghai, China**
+- **🇨🇳Huadu District, Guangzhou(Canton), China**
 - **🇭🇰Hong Kong,China**
 - **🇺🇸Los Angeles,USA**
 
