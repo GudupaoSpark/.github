@@ -26,8 +26,7 @@
 
 > ## **🖥️Our website**
 
-- **Studio Official Website:gudupao.top**
-- **SFA Website:sfa.gudupao.top**
+- **Official Website:gudupao.top**
 
 > ## **🔗Our official account**
 
