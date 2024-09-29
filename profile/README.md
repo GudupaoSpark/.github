@@ -20,10 +20,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudupao666&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-> ## **⛏️Our products**
-
-![](https://raw.githubusercontent.com/Gudupao-Spark-Studio/.github/main/picture/sfa.png)
-
 > ## **🖥️Our website**
 
 - **Official Website:gudupao.top**
