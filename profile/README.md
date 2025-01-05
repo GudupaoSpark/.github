@@ -6,17 +6,7 @@
 
 > ## **🏠Our location**
 
-- **🇨🇳Huadu District, Guangzhou(Canton), China**
 - **🇭🇰Hong Kong,China**
-- **🇺🇸Los Angeles,USA**
-
-> ## **📝Our skills**
-
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudupao666&layout=compact)](https://github.com/gudupao666/gudupao)**
-
-> ## **📶Our level**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudupao666&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 > ## **🖥️Our website**
 
@@ -25,7 +15,7 @@
 > ## **🔗Our official account**
 
 - [![Bilibili](https://img.shields.io/badge/bilibili-white?logo=bilibili)](https://space.bilibili.com/1016857888)
-- [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@gudupaospark)
+- [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@GudupaoSpark)
 - [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/GudupaoSpark)
 
 **Follow us, please!!!**
