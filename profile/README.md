@@ -1,4 +1,4 @@
-[![](../picture/hero.png)](https://gudupao.top)
+[![](https://raw.githubusercontent.com/GudupaoSpark/.github/refs/heads/main/picture/hero_1_1000x516.png)](https://gudupao.top)
 
 > ## **📖About us**
 
