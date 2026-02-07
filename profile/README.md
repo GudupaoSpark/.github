@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-Welcome to <strong>Gudupao Spark</strong> — a <strong>creative tech hub</strong> from <strong>Hong Kong, China</strong>!<br>
+Welcome to <strong>Gudupao Spark</strong> — a <strong>creative tech hub</strong> from <strong>Guangzhou, China</strong>!<br>
 Here, <em>work meets friendship</em>, and ideas bloom into reality 🌱💡.
 </p>
 
