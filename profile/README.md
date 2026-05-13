@@ -25,7 +25,7 @@ Here, <em>work meets friendship</em>, and ideas bloom into reality 🌱💡.
 
 ## 🏠 Our Location
 <p align="center">
-📍 <strong>Guangzhou, China</strong>
+📍 <strong>Shenzhen, China</strong>
 </p>
 
 ---
